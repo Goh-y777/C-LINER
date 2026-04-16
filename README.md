@@ -6,3 +6,5 @@ Generalmente los estudiantes tienen dificultad para aprender conceptos de la fí
 ### Objetivos Generales
 
 Crear una herramienta computacional interactiva y visual en lenguaje C, que simule problemas relacionados con el MRU, permitiendo la entrada de diversas variables del MRU. Esto con el fin de facilitar la enseñanza y comprensión del MRU en estudiantes de educación media.
+
+prueba
