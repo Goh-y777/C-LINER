@@ -8,6 +8,7 @@ Gemini: Utilizado para la generación de ideas para el proyecto e ideas para imp
 * Gemini
 
 ### Prompts Realizados
+(Preguntas realizadas para gemini para aclarar dudas, ya sea del git hub o del codigo en C)
 1. "........"
 2. "........"
 3. "........"
