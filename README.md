@@ -20,8 +20,8 @@ Sea propuesto implementar la lógica matemática del Movimiento Rectilíneo Unif
 * **Integrante 4:** nombre -
 
 ## Funcionalidades Implementadas
-*Distancia en que se encuentran ambos vehiculos (Colision)
-*Tiempo que se encuentran ambos vehiculos 
+* Distancia en que se encuentran ambos vehiculos (Colision)
+* Tiempo que se encuentran ambos vehiculos 
 
 ## Pruebas Realizadas
 * Test de datos válidos (números enteros y decimales).
