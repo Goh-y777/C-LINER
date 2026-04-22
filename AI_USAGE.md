@@ -8,7 +8,6 @@ Gemini: Utilizado para la generación de ideas para el proyecto e ideas para imp
 * Gemini
 
 ### Prompts Realizados
-(Preguntas realizadas para gemini para aclarar dudas, ya sea del git hub o del codigo en C, borrar esto dsp)
 1. "¿Como se llama el metodo en el lenguaje C, para hacer un valor absoluto de una resta de dos datos tipo float?"
 2. "¿Como configuro el archivo task.json en Visual Studio Code para poder compilar un archivo en C?"
 3. "¿Cual es la formula de MRU para el calculo de tiempo de colision, y a su vez distancia de encuentro entre dos objetos?"
