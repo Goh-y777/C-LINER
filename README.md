@@ -14,10 +14,10 @@ validando la entrada de datos del usuario y entregando resultados precisos que s
 Sea propuesto implementar la lógica matemática del Movimiento Rectilíneo Uniforme utilizando el lenguaje de programación C, asegurando que los cálculos de distancia, tiempo y velocidad sean lo precisos. Asimismo, Se buscará diseñar una interfaz de usuario en consola que sea intuitiva y fácil de usar para estudiantes de educación media, complementando esto con una validación de datos que permita evitar errores durante la ejecución del programa ante ingresos de datos no numéricos.
 
 ## Roles del Equipo
-* **Integrante 1:** Antonella Bertolone - Desarrollador de lógica y gestión de repositorio.
-* **Integrante 2:** Alejandro Diaz - Desarrollador de lógica física (Backend). 
-* **Integrante 3:** Javier da Cruz - Encargado de pruebas, control de calidad y casos borde.
-* **Integrante 4:** Leonardo Gutierrez - Gestor de proyecto y documentaciòn
+* **Integrante 1:** Antonella Bertolone (katary071n) - Desarrollador de lógica y gestión de repositorio.
+* **Integrante 2:** Alejandro Diaz (ricodee) - Desarrollador de lógica física (Backend). 
+* **Integrante 3:** Javier da Cruz (f0rtv13r)- Encargado de pruebas, control de calidad y casos borde.
+* **Integrante 4:** Leonardo Gutierrez (Goh-h777)- Gestor de proyecto y documentaciòn
 
 ## Funcionalidades Implementadas
 * Distancia en que se encuentran ambos vehiculos (Colision)
