@@ -14,6 +14,8 @@ Sea propuesto implementar la lógica matemática del Movimiento Rectilíneo Unif
 ## Roles del Equipo
 * **Integrante 1:** Antonella Bertolone - Desarrollador de lógica y gestión de repositorio.
 * **Integrante 2:** nombre - Encargado de pruebas y documentación.
+* **Integrante 3:** nombre -
+* **Integrante 4:** nombre -
 
 ## Funcionalidades Implementadas
 *Distancia en que se encuentran ambos vehiculos (Colision)
