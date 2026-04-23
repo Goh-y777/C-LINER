@@ -19,7 +19,7 @@ validando la entrada de datos del usuario y entregando resultados precisos que s
 * **Integrante 1:** Antonella Bertolone (katary071n) - Desarrollador de lógica y gestión de repositorio.
 * **Integrante 2:** Alejandro Diaz (ricodee) - Desarrollador de lógica física (Backend). 
 * **Integrante 3:** Javier da Cruz (f0rtv13r) - Encargado de pruebas, control de calidad y casos borde.
-* **Integrante 4:** Leonardo Gutierrez (Goh-h777) - Gestor de proyecto y documentación
+* **Integrante 4:** Leonardo Gutierrez (Goh-y777) - Gestor de proyecto y documentación
 
 ## Funcionalidades Implementadas
 * Distancia en que se encuentran ambos vehículos (Colision)
