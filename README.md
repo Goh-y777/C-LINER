@@ -96,5 +96,9 @@ El software cuenta con las siguientes capacidades funcionales
   SELECCIONE UNA OPCION (1-4):
 
 #### Caso 3: Fallo en colisión (Vehículos en misma dirección pero nos se encuentran)
-
+* **Entrada de ejemplo:**
+  ```text
+  
 #### Caso 4: Fallo en colisión v2 (Vehículos en distinta dirección pero nos se encuentran)
+* **Entrada de ejemplo:**
+  ```text
