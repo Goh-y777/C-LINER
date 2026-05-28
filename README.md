@@ -84,6 +84,7 @@ El software cuenta con las siguientes capacidades funcionales
   Vehículo 2 -> Posición: 100 m, Velocidad: -30 m/s
 
 #### Caso 2: Colisión Estándar v2 (Vehículos en mismo sentido)
+* **Entrada de ejemplo:**
   ```text
   INGRESE LA POSICION INICIAL DEL VEHICULO: 0
   INGRESE LA VELOCIDAD INICIAL DEL VEHICULO: 50
