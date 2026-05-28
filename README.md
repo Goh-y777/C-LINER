@@ -83,4 +83,8 @@ El software cuenta con las siguientes capacidades funcionales
   Vehículo 1 -> Posición: 0 m, Velocidad: 20 m/s
   Vehículo 2 -> Posición: 100 m, Velocidad: -30 m/s
 
-#### Caso 2: Colisión Estándar (Vehículos en mismo sentido)
+#### Caso 2: Colisión Estándar v2 (Vehículos en mismo sentido)
+
+#### Caso 3: Fallo en colisión (Vehículos en misma dirección pero nos se encuentran)
+
+#### Caso 4: Fallo en colisión v2 (Vehículos en distinta dirección pero nos se encuentran)
