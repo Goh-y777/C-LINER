@@ -56,17 +56,14 @@ Para este Hito 2, incorporamos un diseño modular basado en la Programación Ori
 ## 6. Funcionalidades Implementadas y Casos de Prueba
 El software cuenta con las siguientes capacidades funcionales
 
-...
 
 1. Cálculo de la distancia exacta en que se encuentran ambos vehículos (Colisión)
 
-...
 
-3. Cálculo del tiempo en que se encuentran ambos vehículos
+2. Cálculo del tiempo en que se encuentran ambos vehículos
 
-...
 
-5. Sistema de validación robusto para evitar velocidades o posiciones lógicas imposibles (entradas no numéricas, etc.)
+3. Sistema de validación robusto para evitar velocidades o posiciones lógicas imposibles (entradas no numéricas, etc.)
 
 
 ...
