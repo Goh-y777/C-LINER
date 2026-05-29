@@ -51,9 +51,6 @@ Para este Hito 2, incorporamos un diseño modular basado en la Programación Ori
 ### Clase `Simulador` o `SistemaFisico` 
 * **Responsabilidad:** Coordinar la simulación, procesar las validaciones de entrada, calcular el punto/tiempo exacto de colisión y desplegar los resultados.
 * **Relaciones:** Tiene una relación de **Composición** con la clase `Vehiculo` (el Simulador contiene dos instancias de `Vehiculo`)
-
-**[COMPLETAR: Ajusten los nombres de las clases a las que realmente crearon en su carpeta `src/`, detallando qué hace cada una y cómo se relacionan (herencia/composición)]**
-
 ---
 
 ## 6. Funcionalidades Implementadas y Casos de Prueba
