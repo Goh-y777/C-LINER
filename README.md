@@ -75,7 +75,6 @@ El software cuenta con las siguientes capacidades funcionales
 ...
 
 ### Ejemplos de Ejecución (Casos de Prueba)
-> (Para asegurar los 25 puntos del README, incluyan ejemplos con texto real de la consola)
 
 #### Caso 1: Colisión Estándar (Vehículos en sentidos opuestos)
 * **Entrada de ejemplo:**
