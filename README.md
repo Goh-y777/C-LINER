@@ -45,8 +45,8 @@ Para este Hito 2, incorporamos un diseño modular basado en la Programación Ori
 
 ### Clase "Vehiculo" 
 **Responsabilidad:** Representar a cada uno de los móviles de la simulación, almacenando sus atributos físicos y controlando su estado
-* **Atributos:** `posicionInicial` (double), `velocidad` (double), `nombre` (std::string)
-* **Métodos principales:** Constructores, getters/setters, y métodos para calcular la posición en un tiempo 
+* **Atributos:** `posicion` (float), `velocidad` (float)
+* **Métodos principales:** Vehiculo() -> Método constructor; pedirDatos() -> Método para pedir datos al usuario; calcularEncuentroYMostrar() -> Método que hace el calculo respectivo solicitado, y además muestra los datos previamente calculados.
 
 ### Clase `Simulador` o `SistemaFisico` 
 * **Responsabilidad:** Coordinar la simulación, procesar las validaciones de entrada, calcular el punto/tiempo exacto de colisión y desplegar los resultados.
